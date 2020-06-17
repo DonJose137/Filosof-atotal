@@ -1,0 +1,49 @@
+p{
+    background-color: burlywood;
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    text-align-last: start;
+}
+img{
+    height: auto;
+    width: auto;
+    image-resolution: 1080p;
+    margin: 10px;
+    align-items: center;   
+}
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+    background-color: mediumseagreen;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+    background-color: mediumaquamarine;
+    text-align: center;
+}
+ol{
+    background-color: mediumpurple;
+    margin: 30px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: navajowhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+p1{
+   font-size: 16px;
+   text-align: center; 
+   margin-block: 100px;
+   background-color: palegoldenrod ;
+   font-family: 'Times New Roman', Times, serif;
+}
